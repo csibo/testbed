@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print 'Works...'
+x=raw_input('Does it work?: ')
